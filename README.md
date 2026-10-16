@@ -1,2 +1,0 @@
-# iqra
-IQRA
